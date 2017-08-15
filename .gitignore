@@ -1,0 +1,10 @@
+moon
+*~
+*#
+.Rhistory
+.Rproj.user
+*swp
+*.pdf
+*.jpg
+*.docx
+# to ignore the ignore, use !, eg: !manual.pdf
